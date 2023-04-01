@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![tip](https://badgen.net/badge/名字/yyyui.2006/orange?icon=name)
+![tip](https://badgen.net/badge/my name/yyyui.2006/orange?icon=kofi)
+![tip](https://badgen.net/badge/Tele/@Miaokabot/blue?icon=telegram)
 
 ![Visitor Count](https://profile-counter.glitch.me/{shenwx2006}/count.svg)
 
