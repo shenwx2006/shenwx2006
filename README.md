@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![tip](https://badgen.net/badge/Name/yyyui.2006/orange?icon=kofi)
-![tip](https://badgen.net/badge/donate/0xB7eeEba526b905201849862Ea5Da37cE9fC28A34/orange?icon=awesome)
+![tip](https://badgen.net/badge/ETH/0xB7eeEba526b905201849862Ea5Da37cE9fC28A34/purple?icon=awesome)
 
 
 ![tip](https://badgen.net/badge/Telegram/@Miaokabot/blue?icon=telegram)
