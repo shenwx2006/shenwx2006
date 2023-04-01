@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tip](https://badgen.net/badge/my name/yyyui.2006/orange?icon=kofi)
+![tip](https://badgen.net/badge/Name/yyyui.2006/orange?icon=kofi)
 
 ![tip](https://badgen.net/badge/Telegram/@Miaokabot/blue?icon=telegram)
 
